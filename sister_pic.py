@@ -2,7 +2,7 @@ from selenium import webdriver
 import requests,time,random,os
 from lxml import etree
 '''
-    功  能：爬取妹子图中颜值控中的所有妹子照片
+    功  能：爬取妹子图中颜值控中的所有妹子照片  我来了
     技  术：使用了selenium模块中的 webdriver,安装了PhantomJS初始化浏览器（无界面的浏览器），
             我这里是安装的Windows版的还有requests请求模块,time时间模块,random随机模块,os模块
             还使用了lxml模块中的etree,使用header利用user-agent反反爬手段还有cookie
